@@ -2,6 +2,8 @@
 
 **[Оценить доклад](https://conf.ontico.ru/online/dtc2022/details/4173737)**
 
+**[Слайды](vault-devopsconf2022.pdf)**
+
 ## Одноклассники
 
 Олег Анастасьев, [DevOops 2017: ОС уровня дата-центра в Одноклассниках](https://www.youtube.com/watch?v=eJShMFzDV6g)
