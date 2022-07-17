@@ -1,9 +1,11 @@
 # DevOpsConf 2022
 
-**[Оценить доклад](https://conf.ontico.ru/online/dtc2022/details/4173737)**
+[Оценить доклад](https://conf.ontico.ru/online/dtc2022/details/4173737)
 
+![title](title.png)
 
 ## Мультикластерный масштабируемый Vault на тысячи сервисов – это ОК
+
 **[Слайды](vault-devopsconf2022.pdf)**
 
 ## Одноклассники
@@ -14,7 +16,6 @@
 
 Дмитрий Самсонов, [Как не положить тысячи серверов с помощью системы централизованного управления конфигурацией на примере CFEngine](https://habr.com/ru/company/odnoklassniki/blog/342300/)
 
-
 ## Vault PRs
 
 [https://github.com/hashicorp/vault/pull/6518](https://github.com/hashicorp/vault/pull/6518)
@@ -24,8 +25,6 @@
 [https://github.com/hashicorp/vault/pull/10467](https://github.com/hashicorp/vault/pull/10467)
 
 [https://github.com/hashicorp/vault/issues/12878](https://github.com/hashicorp/vault/issues/12878)
-
-
 
 ## Other
 
